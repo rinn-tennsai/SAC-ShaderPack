@@ -1,2 +1,2 @@
-# SAC-
+# SAC-ShaderPack
 SACマイクラサーバー用のシェーダーパックです
