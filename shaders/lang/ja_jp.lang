@@ -1,0 +1,2 @@
+option.SATURATION = 彩度
+option.SATURATION.comment = 地形テクスチャの色の鮮やかさを調整します。
